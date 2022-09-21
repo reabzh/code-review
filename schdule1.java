@@ -16,6 +16,7 @@ public class schdule2 {
     String deletSchdule;
     int NumSchdule;
     int n=5;
+    lmn
     
     //we assume that all schdule alredy in the system
     public void searchInSchdule( int day, int month, int year){

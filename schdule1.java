@@ -1,10 +1,10 @@
 
 package Assignment;
 
-public class schdule {
+public class schdule2 {
     
     
-    schdule(){
+    schdule2(){
         System.out.println";
         }
     
@@ -15,6 +15,7 @@ public class schdule {
     
     String deletSchdule;
     int NumSchdule;
+    int n=5;
     
     //we assume that all schdule alredy in the system
     public void searchInSchdule( int day, int month, int year){
